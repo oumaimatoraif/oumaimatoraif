@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning anything;
 - 🔭 I’m currently exploring new things in tech;
 - 💬 Ask me about anything iam happy to help;
-<-- - 📫 How to reach me: -->
 
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+:people_holding_hands: I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
 
