@@ -1,6 +1,5 @@
 ### Hi there I'm Oumaima Toraif
 
-<!--
 **oumaimatoraif/oumaimatoraif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a Software Engineer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
