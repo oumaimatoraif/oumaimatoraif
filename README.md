@@ -1,12 +1,7 @@
-### Hi there I'm Oumaima Toraif
-
-**oumaimatoraif/oumaimatoraif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Oumaima Toraif ![image](https://user-images.githubusercontent.com/69909159/162575790-8a4eb27d-b29e-40a9-8d83-a278bf3468cc.png)
 
 I'm a Software Engineer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 I Spend most of the time doing voluntary work and new projects .
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning anything
