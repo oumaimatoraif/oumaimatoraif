@@ -1,4 +1,4 @@
-### Hi there I'm Oumaima Toraif ![image](https://user-images.githubusercontent.com/69909159/162575790-8a4eb27d-b29e-40a9-8d83-a278bf3468cc.png)
+### Hi there I'm Oumaima Toraif ![image](https://user-images.githubusercontent.com/69909159/162575790-8a4eb27d-b29e-40a9-8d83-a278bf3468cc.png|width=20)
 
 I'm a Software Engineer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 I Spend most of the time doing voluntary work and new projects .
