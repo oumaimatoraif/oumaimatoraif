@@ -10,7 +10,7 @@
 - 💬 Ask me about anything iam happy to help
 - 📫 Reach me at 
 <a href="https://www.linkedin.com/in/oumaima-toraif/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ width="80"></a>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ width="70"></a>
  <a href="https://www.linkedin.com/in/oumaima-toraif/">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70"/></a>
                                                                                                                                    
