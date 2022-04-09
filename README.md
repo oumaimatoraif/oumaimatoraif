@@ -1,4 +1,4 @@
-### Hi there I'm Oumaima Toraif :partying_face: <img src="https://user-images.githubusercontent.com/69909159/162576025-aa0151ea-1e08-4a5b-b75b-b317b03fecac.png" width="50" height="50">
+### Hi there I'm Oumaima Toraif :partying_face: :wave:
 
 **I'm a Software Engineer from Morocco ,Movie Buff and a Cook Entusiast.
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
