@@ -1,5 +1,4 @@
-### Hi there I'm Oumaima Toraif ![image](https://user-images.githubusercontent.com/69909159/162575736-1ecd3d35-5dd9-45ce-a510-02281af78fa0.png)
-
+### Hi there I'm Oumaima Toraif
 
 <!--
 **oumaimatoraif/oumaimatoraif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
