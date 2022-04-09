@@ -12,7 +12,7 @@
 - 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  <a href="https://www.linkedin.com/in/oumaima-toraif/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=150" height="70"/></a>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
                                                                                                                                    
 - ⚡️ Fun fact: I love to cook. My signature dish is homemade spaghetti and meatballs
 
