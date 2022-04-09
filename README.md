@@ -5,7 +5,8 @@ I Spend most of the time doing voluntary work and new projects .
 
 - 🌱 I’m currently learning anything;
 - 💬 Ask me about anything iam happy to help;
-<!--   -📫 How to reach me: ... -->
+- 📫 How to reach me: 
+[![github](https://www.linkedin.com/in/oumaima-toraif/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)]
 
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
