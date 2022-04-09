@@ -5,10 +5,10 @@
 #### I Spend most of the time doing voluntary work and new projects .
 
 
-- 🌱 I’m currently learning anything;
-- 🔭 I’m currently exploring new things in tech;
-- 💬 Ask me about anything iam happy to help;
-- ⚡️ Fun fact:I love to cook. My signature dish is homemade spaghetti and meatballs.
+- 🌱 I’m currently learning anything
+- 🔭 I’m currently exploring new things in tech
+- 💬 Ask me about anything iam happy to help
+- ⚡️ Fun fact: I love to cook. My signature dish is homemade spaghetti and meatballs
 
 :people_holding_hands: I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
