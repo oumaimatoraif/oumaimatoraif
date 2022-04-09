@@ -5,7 +5,7 @@ I Spend most of the time doing voluntary work and new projects .
 
 - 🌱 I’m currently learning anything;
 - 💬 Ask me about anything iam happy to help;
-- 📫 How to reach me: ...
+<!--   -📫 How to reach me: ... -->
 
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
